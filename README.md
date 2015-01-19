@@ -1,10 +1,9 @@
 # Getting and Cleaning Data Course Project
 
 ##Installation
-* create a directory for the project called "samsung" 
-* Dowload the script "run_analysis.R" to "samsung"
+* Dowload the script "run_analysis.R" 
 * Download the raw data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
-to "samsun" and unzip it.
+to the same folder and unzip it.
 * Delete the zip file
 * The directory structure should look like below
 
