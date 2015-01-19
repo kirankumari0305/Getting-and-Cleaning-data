@@ -26,7 +26,7 @@ The script "run_analysis.R" depedns on the library "plyr". If you dont have inst
 
 ## Running the run_analysis.R
 
-* change  the working directory in R to the installation directory "Samsun"
+* change  the working directory in R to the installation directory "Samsung"
 
 
 
