@@ -1,7 +1,7 @@
-## Getting and Cleaning Data Course Project
+# Getting and Cleaning Data Course Project
 
 
-# Set the working directory
+Set the working directory
 
 Download the script run_analysis.R to samsung
 Download the raw data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip to samsung and unzip it. 
