@@ -24,14 +24,14 @@ to "samsun" and unzip it.
 The script "run_analysis.R" depedns on the library "plyr". If you dont have installed, please install the package.
 
 
-## Analysis (run_analysis.R)
+## Analysis 
 
 * Change  the working directory in R to the installation directory "Samsung"
+
 * run_analysis.R has the code to perform the analysis and is broken down in the 5 steps.
 
-## 'CodeBook.md' describes all the variables  the data, and any transformations that was performed to clean up the data
+*'CodeBook.md' describes all the variables  the data, and any transformations that was performed to clean up the data
 
-
-## The code contains the comment and tidydata.txt is the  final transformed data.
+* The code contains the comment and tidydata.txt is the  final transformed data.
 
 
