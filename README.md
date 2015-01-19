@@ -30,7 +30,7 @@ The script "run_analysis.R" depedns on the library "plyr". If you dont have inst
 
 * run_analysis.R has the code to perform the analysis and is broken down in the 5 steps.
 
-*'CodeBook.md' describes all the variables  the data, and any transformations that was performed to clean up the data
+* CodeBook.md describes all the variables  the data, and any transformations that was performed to clean up the data
 
 * The code contains the comment and tidydata.txt is the  final transformed data.
 
